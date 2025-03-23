@@ -3,9 +3,9 @@
     <remote name="Dt" fetch="https://github.com/Motorola-SM6375-Devs" />
     <remote name="Lineage" fetch="https://github.com/LineageOS" />
     <remote name="me" fetch="https://github.com/pixelos-sm6375" />
-    <remote name="l" fetch="https://github.com/lipef23937" />
+    <remote name="eu" fetch="https://github.com/lipef23937" />
     <!-- Device-Tree and Device-Common -->
-    <project path="device/motorola/bangkk" name="android_device_motorola_bangkk" remote="l" revision="fifteen"  />
+    <project path="device/motorola/bangkk" name="android_device_motorola_bangkk" remote="eu" revision="fifteen"  />
     <project path="device/motorola/fogos" name="android_device_motorola_fogos" remote="me" revision="fifteen"  />
     <project path="device/motorola/sm6375-common" name="android_device_motorola_sm6375-common" remote="me" revision="fifteen"  />
 
